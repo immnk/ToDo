@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.avnet.todo" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>ToDo</name>
+    <description>
+       To Do application to speed your activity process
+    </description>
+    <author email="im.manikanta@gmail.com" href="http://cordova.io">
+        Mani
+    </author>
+	<icon src="www/img/todo.png" platform="android" width="57" height="57" density="mdpi" />
+    <content src="index.html" />
+    <access origin="*" />
+	<preference name="splashscreen" value="splash" />
+	<preference name="splashScreenDelay" value="1000" />
+</widget>

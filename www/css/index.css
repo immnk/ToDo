@@ -1,0 +1,41 @@
+.ui-mobile label{
+    text-transform: capitalize;
+}
+.center{
+    text-align: center;
+}
+.addSide{
+    float: right;
+}
+#menuPane{
+    background-color: #E9E9E9;
+    width: 200px;
+    height: 100%;
+    z-index: 99999;
+    position: fixed;
+    left: -200px;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    -ms-transition: all .5s;
+    border: 1px solid #DDD;
+}
+.menu{
+    margin:10px;
+}
+.checkbox{
+    display: inline-block;
+    margin-top: -11px;
+    vertical-align: middle;
+    position: absolute;
+    top: 50%;
+}
+.checkbox input{
+    height: 22px;
+    width: 22px;
+}
+.taskData{
+    display: inline-block !important;
+    margin-left: 80px;
+    width: 100%;
+}

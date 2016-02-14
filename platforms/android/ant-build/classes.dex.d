@@ -1,0 +1,19 @@
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes.dex : \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\com\avnet\todo\BuildConfig.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\com\avnet\todo\CordovaApp.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\com\avnet\todo\R$attr.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\com\avnet\todo\R$drawable.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\com\avnet\todo\R$string.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\com\avnet\todo\R$xml.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\com\avnet\todo\R.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$1.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$2.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$3.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$4.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$5$1.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$5.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$6$1.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$6.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$7.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen.class \
+D:\Avnet_Related\Mobile Training\todo\platforms\android\ant-build\dexedLibs\classes-c7449d97b693de73eee641f20be4a895.jar \
